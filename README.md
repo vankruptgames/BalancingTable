@@ -1,4 +1,4 @@
-<h1> Creating a Custom Balance Table for your Pavlov VR Dedicated Server <h1>
+<h1> Creating a Custom Balance Table for your Pavlov VR Dedicated Server </h1>
 
 1. Sign up with github: https://github.com/join
 
