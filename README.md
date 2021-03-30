@@ -22,6 +22,6 @@
 
 ![Image of Guide5](https://github.com/juntistik/BalancingTable/Guide/BTG05.png)
 
-You will specify this in your Game.ini with: `BalanceTableURL="jared/BalancingTable/main/"`
+You will specify this in your Game.ini with: `BalanceTableURL="vankruptgames/BalancingTable/main/"`
 
 Any changes to your forked balance table on github will be loaded on map start, if you run into any issues loading the balance table check the logs on server startup for warnings.
