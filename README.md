@@ -18,7 +18,7 @@
 
 ![Image of Guide4](https://github.com/juntistik/BalancingTable/Guide/BTG04.png)
 
-6. Then copy the portion of the link between raw.githubusercontent.com/ and /BalancingTable.csv (example. "Mark-Dey/BalancingTable/main")
+6. Then copy the portion of the link between raw.githubusercontent.com/ and /BalancingTable.csv (example. "vankruptgames/BalancingTable/main")
 
 ![Image of Guide5](https://github.com/juntistik/BalancingTable/Guide/BTG05.png)
 
