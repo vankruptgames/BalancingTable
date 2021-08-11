@@ -1,5 +1,5 @@
 ---,Cost,KillBonus,BaseDamage,ArmourDamage,ArmourPenetration,HelmetDamage,HelmetBleed,Weight,FalloffModifier,MinFalloffDist,MaxFalloffDist
-1911,200,800,25,25,10,100,50,0,0.8,2250,3000
+1911,200,800,1,25,10,100,50,0,0.8,2250,3000
 57,500,300,20,25,100,100,75,0,0.85,2500,3000
 sock,500,600,20,30,10,50,50,0,0.85,1250,2000
 m9,250,400,20,30,10,50,50,0,0.85,1500,2000
