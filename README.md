@@ -6,7 +6,7 @@
 
 
 <hr>
-<h4>this table removes damage from newton and makes 1911 do awp damage for thhe LULZ</h4>
+<h4>this table Doubles all gun damage to make the game hardcore mode </h4>
 <p>
 BalanceTableURL="/JTWP-org/BalancingTable/Push"
 <br><br>
