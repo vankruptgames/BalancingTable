@@ -8,7 +8,7 @@
 <hr>
 <h4>this table removes damage from newton and makes 1911 do awp damage for thhe LULZ</h4>
 <p>
-BalanceTableURL="/JTWP-org/BalancingTable/Push""
+BalanceTableURL="/JTWP-org/BalancingTable/Push"
 <br><br>
 full raw url<br> 
 https://raw.githubusercontent.com/JTWP-org/BalancingTable/Push/BalancingTable.csv
